@@ -1,16 +1,16 @@
-# whatsapp
+# VD_flutter_training_2.2
 
-A new Flutter project.
+## Whatsapp UI clone
 
-## Getting Started
+A simple Flutter UI project displaying the available tabs on WhatsApp
 
-This project is a starting point for a Flutter application.
+# Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Camera Tab
+![](images/image_1.jpeg)
+## Chats Tab
+![](images/image_2.jpeg)
+## Status Tab
+![](images/image_3.jpeg)
+## Calls Tab
+![](images/image_4.jpeg)
